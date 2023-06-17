@@ -1,8 +1,8 @@
 # Quizzo
 
 
-This is an online quiz organizing website project, developed using Python's web framework Django.  
-For front-end designing I have used Twitter's front-end library Bootstrap4.
+A dynamic online quiz organizing website built with Django, leveraging the power of Python.  
+The project utilizes Bootstrap4 for captivating front-end design and PostgreSQL for robust back-end data storage.
 
 ## Current Features
 

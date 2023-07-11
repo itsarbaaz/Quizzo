@@ -76,12 +76,14 @@ WSGI_APPLICATION = 'Quizzo.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
+
+# Configure your database here
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'Quizzo',
         'USER': 'postgres',
-        'PASSWORD': 'admin1',
+        'PASSWORD': '',
         'HOST': 'localhost',
         'PORT': '5432',
     }
